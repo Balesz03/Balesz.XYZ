@@ -1,0 +1,52 @@
+Uri: http://minaff.club/
+File Name: c:\Downloaded Web Sites1\minaff.club\index.htm
+Content Type: text/html
+
+Uri: http://minaff.club/assets/icons/obnoxious.jpg
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\icons\obnoxious.jpg
+Content Type: image/jpeg
+
+Uri: http://minaff.club/assets/stylesheets/stylesheet.min.css
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\stylesheets\stylesheet.min.css
+Content Type: text/css
+
+Uri: http://minaff.club/assets/javascript/app.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\app.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/others/KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere).mp4
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\others\KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere).mp4
+Content Type: video/mp4
+
+Uri: http://minaff.club/assets/javascript/lib/jquery-3.1.1.min.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\lib\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/javascript/lib/jquery.marquee.min.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\lib\jquery.marquee.min.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/javascript/lib/jquery.cookie.min.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\lib\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/javascript/lib/typed.min.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\lib\typed.min.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/javascript/portfolio.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\portfolio.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/javascript/analytics.js
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\javascript\analytics.js
+Content Type: application/javascript
+
+Uri: http://minaff.club/assets/others/cursor.png
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\others\cursor.png
+Content Type: image/png
+
+Uri: http://minaff.club/assets/others/dot.png
+File Name: c:\Downloaded Web Sites1\minaff.club\assets\others\dot.png
+Content Type: image/png
+
